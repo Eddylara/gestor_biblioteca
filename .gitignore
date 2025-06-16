@@ -17,3 +17,6 @@
 
 # Carpeta donde se guarda el diseño incial y proyeccion
 disenio/
+
+# Base de datos que utiliza el proyecto
+/res/database/biblioteca.db
