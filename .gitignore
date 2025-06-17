@@ -20,3 +20,6 @@ disenio/
 
 # Base de datos que utiliza el proyecto
 /res/database/biblioteca.db
+
+# Helper Gui
+/GUIBuilder
