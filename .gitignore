@@ -1,0 +1,25 @@
+# Archivos compilados
+*.class
+
+# Carpetas de salida de compilación
+/bin/
+/out/
+/target/
+
+# IDEs
+/.idea/
+/*.iml
+/.vscode/
+/nbproject/private/
+
+# Librerías externas
+/lib/*.jar
+
+# Carpeta donde se guarda el diseño incial y proyeccion
+disenio/
+
+# Base de datos que utiliza el proyecto
+/res/database/biblioteca.db
+
+# Helper Gui
+/GUIBuilder
